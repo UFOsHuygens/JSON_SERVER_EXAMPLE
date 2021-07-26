@@ -1,0 +1,20 @@
+{
+    "solarsystem_db": [
+        {
+            "id": 1,
+            "planet": "hello earth!"
+        },
+        {
+            "id": 2,
+            "planet": "hello moon!"
+        },
+        {
+            "id": 3,
+            "planet": "hello mars!"
+        },
+        {
+            "id": 4,
+            "planet": "hello jupiter!"
+        }
+    ]
+}
