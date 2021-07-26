@@ -1,4 +1,4 @@
-# Ajax simples por meio de um servidor json
+# Conexão simples por meio de um servidor json
 
 
 ```
